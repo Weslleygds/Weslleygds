@@ -3,4 +3,4 @@
 <p>Busco minha primeira oportunidade na área de TI, com foco em desenvolvimento de sistemas e suporte. Tenho facilidade em aprender novas tecnologias, adaptabilidade e motivação para contribuir com soluções enquanto continuo evoluindo profissionalmente.</p>
 <hr>                                                                                     
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,aws,postgresql,mysql,docker)](https://skillicons.dev)
